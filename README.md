@@ -1,6 +1,6 @@
 # <div align="center">Dopamine gruvbox theme</div>
 
-Dopamine v3.0.0 theme based on the [gruvbox color scheme](https://github.com/morhetz/gruvbox)
+[Dopamine](https://github.com/digimezzo/dopamine) v3.0.0 theme based on the [gruvbox color scheme](https://github.com/morhetz/gruvbox)
 
 ![gruvbox dark](https://github.com/user-attachments/assets/26cf6ef5-307f-4c26-80c7-0feef79f5ca4)
 
